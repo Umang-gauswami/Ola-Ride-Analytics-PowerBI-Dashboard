@@ -74,8 +74,8 @@ To build a real-time analytics platform that:
 
 #### ✅ **Overall Page**
 
-* **Total Bookings:** 100,000
-* **Total Booking Value:** ₹55 Million
+* **Total Bookings:** 103,024
+* **Total Booking Value:** ₹35 Million
 * **Booking Status Breakdown:** Pie chart showing success vs. canceled/incomplete rides
 * **Ride Volume Over Time:** Line chart analyzing ride demand patterns throughout the month
 
@@ -85,16 +85,18 @@ To build a real-time analytics platform that:
 * **Average Customer Ratings by Vehicle Type**
   Insight: Larger vehicles (e.g., Prime SUV, Prime Plus) tend to get better ratings and longer ride distances.
 
+#### 💳 **Revenue Page**
+
+* **Revenue by Payment Method**: UPI, Wallet, Cash, Card
+* **Top 5 Customers by Booking Value**: Loyalty targeting insight
+
+
 #### ❌ **Cancellation Page**
 
 * **Cancelled Rides by Customer and Driver**
 * **Top Reasons**: Driver asked to cancel, AC not working (for 4-wheelers), customer changed plans
 * **Incomplete Rides Reasons**: Vehicle breakdown, customer demand, others
 
-#### 💳 **Revenue Page**
-
-* **Revenue by Payment Method**: UPI, Wallet, Cash, Card
-* **Top 5 Customers by Booking Value**: Loyalty targeting insight
 
 #### ⭐ **Ratings Page**
 
@@ -113,7 +115,7 @@ To build a real-time analytics platform that:
 
 
 ## 6. **Screenshots / Demo**
-## Live Demo : [Click Here](https://oladash.netlify.app/)
+## Live Ola Dashboard Demo : [Click Here](https://oladash.netlify.app/)
 
 
 ### 🔍 Overall Page
