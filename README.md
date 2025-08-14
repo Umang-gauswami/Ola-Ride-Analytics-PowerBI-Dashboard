@@ -1,7 +1,7 @@
 
 #  Ola Ride Analytics Dashboard
 
-### A Power BI Project for Visualizing Rides, Revenue & Ratings Across Bangalore
+### A Power BI Project for Visualizing Rides, Revenue & Ratings Across Bangalore 
 
 
 
