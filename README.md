@@ -115,7 +115,7 @@ To build a real-time analytics platform that:
 
 
 ## 6. **Screenshots / Demo**
-## Live Ola Dashboard Demo : [Click Here](https://oladash.netlify.app/)
+## Live Ola Dashboard Demo : [Click Here](https://ola-ride-analysis.netlify.app/)
 
 
 ### 🔍 Overall Page:
