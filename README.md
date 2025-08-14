@@ -120,7 +120,7 @@ To build a real-time analytics platform that:
 
 ### 🔍 Overall Page
 
-![Overall](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20of%20Overall%20Page.png)
+![Overall](https://github.com/Umang-gauswami/Ola-Ride-Analytics-PowerBI-Dashboard/blob/main/4.%20Dashboard%20Overall%20Page.png)
 
 ### 🚙 Vehicle Type Analysis
 
