@@ -128,7 +128,7 @@ To build a real-time analytics platform that:
 
 ### 💳 Revenue Insights
 
-![Revenue](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20of%20Revenue%20Page.png)
+![Revenue](https://github.com/Umang-gauswami/Ola-Ride-Analytics-PowerBI-Dashboard/blob/main/6.%20Revenue%20Page.png)
 
 ### ❌ Cancellation Trends
 
