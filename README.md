@@ -124,7 +124,7 @@ To build a real-time analytics platform that:
 
 ### 🚙 Vehicle Type Analysis
 
-![Vehicle Type](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20of%20Vehical%20Type%20Page.png)
+![Vehicle Type](https://github.com/Umang-gauswami/Ola-Ride-Analytics-PowerBI-Dashboard/blob/main/5.%20Vehicle%20Type%20Page.png)
 
 ### 💳 Revenue Insights
 
