@@ -118,23 +118,23 @@ To build a real-time analytics platform that:
 ## Live Ola Dashboard Demo : [Click Here](https://oladash.netlify.app/)
 
 
-### 🔍 Overall Page
+### 🔍 Overall Page:
 
 ![Overall](https://github.com/Umang-gauswami/Ola-Ride-Analytics-PowerBI-Dashboard/blob/main/4.%20Dashboard%20Overall%20Page.png)
 
-### 🚙 Vehicle Type Analysis
+### 🚙 Vehicle Type Analysis:
 
 ![Vehicle Type](https://github.com/Umang-gauswami/Ola-Ride-Analytics-PowerBI-Dashboard/blob/main/5.%20Vehicle%20Type%20Page.png)
 
-### 💳 Revenue Insights
+### 💳 Revenue Insights:
 
 ![Revenue](https://github.com/Umang-gauswami/Ola-Ride-Analytics-PowerBI-Dashboard/blob/main/6.%20Revenue%20Page.png)
 
-### ❌ Cancellation Trends
+### ❌ Cancellation Trends:
 
-![Cancellation](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20Of%20Cancellation%20Page.png)
+![Cancellation](https://github.com/Umang-gauswami/Ola-Ride-Analytics-PowerBI-Dashboard/blob/main/7.%20Cancellation%20Page.png)
 
-### ⭐ Ratings Analysis
+### ⭐ Ratings Analysis:
 
 ![Ratings](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20Of%20Rating%20Page.png)
 
