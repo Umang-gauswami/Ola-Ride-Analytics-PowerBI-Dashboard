@@ -136,8 +136,6 @@ To build a real-time analytics platform that:
 
 ### ⭐ Ratings Analysis:
 
-![Ratings](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20Of%20Rating%20Page.png)
+![Ratings](https://github.com/Umang-gauswami/Ola-Ride-Analytics-PowerBI-Dashboard/blob/main/8.%20Ratings%20Page.png)
 
----
 
-Let me know if you want this as a `.md` file or ready-to-paste GitHub repo `README.md` with your actual screenshots.
